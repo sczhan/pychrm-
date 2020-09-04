@@ -5,71 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="245dce85-a0b1-40a9-a770-b3e092e602ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python基础/LuckyNumberSys.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python基础/MotoRenSys.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python基础/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python基础/oop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python基础/python基础.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python基础/python结构.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python基础/zy1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python基础/zy2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python基础/zy3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python基础/zy4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python基础/zy5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python基础/zy6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python数据爬取/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python数据爬取/aqy/aqy/run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python数据爬取/boss/boss/strat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python数据爬取/boss/boss/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python数据爬取/boss/sds .py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python数据爬取/headless.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python数据爬取/html_feach_url.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python数据爬取/jd/jd/run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python数据爬取/jrtt/jrtt/run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python数据爬取/lgw/lgw.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python数据爬取/lgw/lgw/run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python数据爬取/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python数据爬取/main_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python数据爬取/qcwy/qcwy/start.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python数据爬取/qcwy_sp/qcwy_sp/exporters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python数据爬取/qcwy_sp/qcwy_sp/run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python数据爬取/quto/quto/run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python数据爬取/scrapy_demo/scrapy_demo/run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python数据爬取/scrapy_demo/scrapy_demo/runspider.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python数据爬取/scrapy_douban/scrapy_douban/db_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python数据爬取/scrapy_douban/scrapy_douban/start.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python数据爬取/scrapy_homework/scrapy_homework/start.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python数据爬取/seleium.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python数据爬取/selenium操作.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python数据爬取/souhu/souhu/start.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python数据爬取/tianmao/tianmao/run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python数据爬取/xueqiu/xueqiu/run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python数据爬取/zlzp/zlzp/run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python数据爬取/公交车(requests).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python数据爬取/公交车(urllib).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python数据爬取/前程无忧(requests).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/kgc/python数据爬取/前程无忧第一页数据.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/xitike(习题课)/xitike(第6章爬虫与实践)/linux/DHTML/JSjiaoben.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/xitike(习题课)/xitike(第6章爬虫与实践)/linux/DHTML/doubandianying.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/xitike(习题课)/xitike(第6章爬虫与实践)/linux/DHTML/doubandushu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/xitike(习题课)/xitike(第6章爬虫与实践)/linux/DHTML/doubanyinyue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/xitike(习题课)/xitike(第6章爬虫与实践)/linux/DHTML/douban登录.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/xitike(习题课)/xitike(第6章爬虫与实践)/linux/DHTML/jd_spider.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/xitike(习题课)/xitike(第6章爬虫与实践)/linux/DHTML/jianshu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/xitike(习题课)/xitike(第6章爬虫与实践)/linux/DHTML/seleium.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/xitike(习题课)/xitike(第6章爬虫与实践)/linux/requests/lagou.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/xitike(习题课)/xitike(第6章爬虫与实践)/linux/requests/lagou2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wode/xitike(习题课)/xitike(第6章爬虫与实践)/linux/requests/ll.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wode/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wode/xitike(习题课)/xitike(第6章爬虫与实践)/linux/requests/bilibili.py" beforeDir="false" afterPath="$PROJECT_DIR$/../wode/xitike(习题课)/xitike(第6章爬虫与实践)/linux/requests/bilibili.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wode/爬虫/index.png" beforeDir="false" afterPath="$PROJECT_DIR$/../wode/爬虫/index.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wode/爬虫/大熊猫.png" beforeDir="false" afterPath="$PROJECT_DIR$/../wode/爬虫/大熊猫.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wode/爬虫/清空.png" beforeDir="false" afterPath="$PROJECT_DIR$/../wode/爬虫/清空.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wode/爬虫/航母2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../wode/爬虫/航母2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wode/爬虫/航空母舰.png" beforeDir="false" afterPath="$PROJECT_DIR$/../wode/爬虫/航空母舰.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wode/类(class)/龟鱼游戏.py" beforeDir="false" afterPath="$PROJECT_DIR$/../wode/类(class)/龟鱼游戏.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -3556,7 +3492,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../wode/类(class)/龟鱼游戏.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
+            <state relative-caret-position="276">
               <caret line="182" column="4" lean-forward="true" selection-start-line="182" selection-start-column="4" selection-end-line="182" selection-end-column="4" />
             </state>
           </provider>
@@ -3574,8 +3510,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../study/beidaqingniao/day1/demo1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+            <state relative-caret-position="450">
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -3609,7 +3545,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="950" />
+    <option name="x" value="366" />
+    <option name="y" value="95" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
@@ -3716,6 +3653,8 @@
       <workItem from="1599221190171" duration="1382000" />
       <workItem from="1599241043896" duration="837000" />
       <workItem from="1599241912281" duration="232000" />
+      <workItem from="1599242167949" duration="1717000" />
+      <workItem from="1599243907320" duration="316000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1599203573307</created>
@@ -3738,17 +3677,24 @@
       <option name="project" value="LOCAL" />
       <updated>1599241730417</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="5555">
+      <created>1599242983014</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1599242983014</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22910000" />
+    <option name="totallyTimeSpent" value="24943000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4483914" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.9470509" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -3759,9 +3705,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49798927" weight="0.32719547" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4966488" visible="true" weight="0.33002833" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5020107" side_tool="true" visible="true" weight="0.32719547" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.5033512" side_tool="true" visible="true" weight="0.33002833" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="bottom" id="SOQL Query" order="13" />
@@ -3782,6 +3728,26 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -3803,6 +3769,11 @@
           </value>
         </entry>
       </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
     </option>
     <option name="RECENT_FILTERS">
       <map>
@@ -3826,7 +3797,8 @@
     <MESSAGE value="test" />
     <MESSAGE value="test1" />
     <MESSAGE value="222" />
-    <option name="LAST_COMMIT_MESSAGE" value="222" />
+    <MESSAGE value="5555" />
+    <option name="LAST_COMMIT_MESSAGE" value="5555" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
@@ -3855,14 +3827,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../study/beidaqingniao/day1/demo1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        <state relative-caret-position="450">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../wode/类(class)/龟鱼游戏.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
+        <state relative-caret-position="276">
           <caret line="182" column="4" lean-forward="true" selection-start-line="182" selection-start-column="4" selection-end-line="182" selection-end-column="4" />
         </state>
       </provider>
