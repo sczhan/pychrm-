@@ -7,6 +7,8 @@
     <orderEntry type="jdk" jdkName="Python 3.7 (oop)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="wode" />
+    <orderEntry type="module" module-name="study" />
+    <orderEntry type="module" module-name="爬虫(scrapy)" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

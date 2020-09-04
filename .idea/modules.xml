@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/pychrm文件.iml" filepath="$PROJECT_DIR$/.idea/pychrm文件.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../study/.idea/study.iml" filepath="$PROJECT_DIR$/../study/.idea/study.iml" />
       <module fileurl="file://$PROJECT_DIR$/../wode/.idea/wode.iml" filepath="$PROJECT_DIR$/../wode/.idea/wode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../爬虫(scrapy)/.idea/爬虫(scrapy).iml" filepath="$PROJECT_DIR$/../爬虫(scrapy)/.idea/爬虫(scrapy).iml" />
     </modules>
   </component>
 </project>
