@@ -4,9 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/第1课.py" line="1" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="245dce85-a0b1-40a9-a770-b3e092e602ba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="245dce85-a0b1-40a9-a770-b3e092e602ba" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -3492,8 +3490,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../wode/类(class)/龟鱼游戏.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="182" column="4" lean-forward="true" selection-start-line="182" selection-start-column="4" selection-end-line="182" selection-end-column="4" />
+            <state relative-caret-position="198">
+              <caret line="178" column="18" lean-forward="true" selection-start-line="178" selection-start-column="18" selection-end-line="178" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -3545,7 +3543,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="366" />
+    <option name="x" value="365" />
     <option name="y" value="95" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
@@ -3654,7 +3652,7 @@
       <workItem from="1599241043896" duration="837000" />
       <workItem from="1599241912281" duration="232000" />
       <workItem from="1599242167949" duration="1717000" />
-      <workItem from="1599243907320" duration="316000" />
+      <workItem from="1599243907320" duration="647000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1599203573307</created>
@@ -3684,11 +3682,18 @@
       <option name="project" value="LOCAL" />
       <updated>1599242983014</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test">
+      <created>1599244330345</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1599244330345</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24943000" />
+    <option name="totallyTimeSpent" value="25274000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -3794,11 +3799,11 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="test222" />
     <MESSAGE value="test22" />
-    <MESSAGE value="test" />
     <MESSAGE value="test1" />
     <MESSAGE value="222" />
     <MESSAGE value="5555" />
-    <option name="LAST_COMMIT_MESSAGE" value="5555" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
@@ -3834,8 +3839,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../wode/类(class)/龟鱼游戏.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="182" column="4" lean-forward="true" selection-start-line="182" selection-start-column="4" selection-end-line="182" selection-end-column="4" />
+        <state relative-caret-position="198">
+          <caret line="178" column="18" lean-forward="true" selection-start-line="178" selection-start-column="18" selection-end-line="178" selection-end-column="18" />
         </state>
       </provider>
     </entry>
